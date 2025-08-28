@@ -1,14 +1,14 @@
 # premier-portfolio
 
-That's "First portfolio"  ✨
+That's "Portfolio"  ✨
 
 ## Screenshot 📸
 
-![Israel Mitolu portfolio screenshot](./assets/img/seo-img.png)
+![Lovekush portfolio screenshot](./assets/img/seo-img.png)
 
 ## Live Site 🚀
 
-[Preview the website here]().
+[Preview the website here](https://lovekush.vercel.app/).
 
 ## Tools 🔨
 
